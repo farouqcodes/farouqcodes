@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Umar Abubakar Isyaku 👋
 
-<!--
-**farouqcodes/farouqcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student from Nigeria, passionate about building real-world solutions using technology.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- BSc.Ed Computer Science Student
+- Founder of Farouq General Services
+- Interested in Cybersecurity & Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- HTML, CSS, JavaScript
+- Firebase
+- Web Development
+
+## 🌐 Projects
+- Farouq General Services  
+  https://farouqgeneralservices.com
+
+## 📫 Contact
+- Email: officialumarabubakarisyaku@gmail.com
